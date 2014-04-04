@@ -1,1 +1,1 @@
-console.log('\'Allo \'Allo!' \' will be placed in here'\);
+console.log('\'Allo \'Allo! \' will be placed in here'\);
